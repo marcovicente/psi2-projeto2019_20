@@ -33,6 +33,17 @@
 “For a mid-sized company’s marketing and sales departments who need basic CRM functionality, the CRM-Innovator is a Web-based service that provides sales tracking, lead generation, and sales representative support features that improve customer relationships at critical touch points. Unlike other services or package software products, our product provides very capable services at a moderate cost.”
 * Source: https://www.joelonsoftware.com/2002/05/09/product-vision/
 
+### Business Model Canvas *
+![picture alt](https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Business_Model_Canvas.png/1200px-Business_Model_Canvas.png)
+` * Osterwalder, Pigneur & al. 2010`
+
+
+### Additional readings
+* [Product Vision](https://www.scrumalliance.org/community/articles/2009/january/the-product-vision)
+* [Product Vision Statement](https://platinumedge.com/blog/agile-artifacts-product-vision-statement)
+* [Defining your Product Vision](http://www.dummies.com/careers/project-management/four-steps-to-defining-your-product-vision-with-agile-management/)
+* [Business Model Canvas](https://strategyzer.com/canvas/business-model-canvas)
+
 <a name="leaderboard"></a>
 ## Leaderboard
 ### September/ October
