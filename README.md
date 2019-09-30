@@ -44,20 +44,34 @@
 * [Defining your Product Vision](http://www.dummies.com/careers/project-management/four-steps-to-defining-your-product-vision-with-agile-management/)
 * [Business Model Canvas](https://strategyzer.com/canvas/business-model-canvas)
 
+
+<a name="useful_information"></a>
+## Useful Information ##
+* [Proposta de Projecto - Documentação](https://wetransfer.com/downloads/f71aa1c174cbbb72e1a61396d69bc02920190930135158/cabd58c59831502b78fac53ad508cbb420190930135158/f8604f)
+
+
 <a name="leaderboard"></a>
 ## Leaderboard
 ### September/ October
 
-| Players       | Session #1 | Total |
-|---------------|------------|-------|
-| Cidalia       | 3752 🥇     | 3752  |
-| Severino      | 3696 🥈     | 3696  |
-| DARCIO        | 2723 🥉     | 2723  |
-| Miguel        | 2713       | 2713  |
-| Brigido       | 2713       | 2713  |
-| T.Miguel      | 2408       | 2408  |
-| SportinGUIsta | 1878       | 1878  |
-| Rui           | 1843       | 1843  |
-| claclo        | 1713       | 1713  |
-| Fernandocc    | 913        | 913   |
-| Rodolfo       | 820        | 820   |
+
+| Players       | Session #1 | Pitch | Total |
+|---------------|------------|-------|-------|
+| Cidalia       | 3752   🥇   | 1450  | 5202  |
+| Severino      | 3696   🥈   | 1400  | 5096  |
+| Miguel        | 2713       | 1500 🥇| 4213  |
+| Brigido       | 2713       | 1400  | 4113  |
+| T.Miguel      | 2408       | 1450  | 3858  |
+| SportinGUIsta | 1878       | 1500 🥇| 3378  |
+| Rui           | 1843       | 1500 🥇| 3343  |
+| DARCIO        | 2723   🥉   | 400   | 3123  |
+| claclo        | 1713       | 1400  | 3113  |
+| Fernandocc    | 913        | 1400  | 2313  |
+| Rodolfo       | 820        | 1450  | 2270  |
+| Jduarte       | 0          | 1400  | 1400  |
+
+
+## Authors 
+[Marco Vicente](https://scholar.google.com/citations?user=uKVB2XgAAAAJ&hl=en&oi=sra)
+
+Torres Vedras, 2019
