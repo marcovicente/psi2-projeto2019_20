@@ -1,15 +1,17 @@
-## Group 1 - XXX
+## Group MAKEABURGER 🍔
 ### Participants
-* XXX
+* Cidália Pinto
+* Rodolfo Barreira
+* Tiago Santos
 ### Status
-- [X] Product Vision
-- [ ] [Product Backlog](https://trello.com/b/b4ibEXfr/agile-project#)
-- [ ] Planning
-- [ ] Sprint Planning #1
+- [X] Product Vision (500pts)
+- [X] [Product Backlog](https://trello.com/b/x0xC5LxZ/projeto-sistemas-de-informa%C3%A7%C3%A3o)  (500pts)
+- [X] Planning (250pts)
+- [X] Sprint Planning #1 (Database) 
 - [ ] Architecture
-- [ ] Database
+- [X] Database (Diagram, Structure) (250pts)
 - [ ] Documentation
-- [ ] Source Control
+- [ ] Source Control (Sprint #2)
 - [ ] Unit Tests
 - [ ] Mobile Development
 - [ ] UI Style Guide
