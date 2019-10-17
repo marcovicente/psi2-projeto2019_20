@@ -7,8 +7,9 @@
 - [ ] Planning
 - [ ] Sprint Planning #1
 - [ ] Architecture
+- [ ] Database
+- [ ] Documentation
 - [ ] Source Control
 - [ ] Unit Tests
 - [ ] Mobile Development
-- [ ] Documentation
 - [ ] UI Style Guide
