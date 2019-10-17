@@ -1,6 +1,8 @@
 # Projeto em Sistemas de Informação
 <kbd>P</kbd><kbd>S</kbd><kbd>I</kbd>    <kbd>2</kbd><kbd>0</kbd><kbd>1</kbd><kbd>9</kbd>
 
+* [Groups](https://github.com/marcovicente/psi2-projeto2019_20/blob/master/groups.md)
+
 ## Getting Started ##
 * [Product Vision](#product_vision)
 * [Product Backlog](#product_backlog)
