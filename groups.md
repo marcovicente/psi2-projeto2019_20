@@ -5,7 +5,7 @@
 * Tiago Santos
 ### Status
 - [X] Product Vision (500pts)
-- [X] [Product Backlog](https://trello.com/b/x0xC5LxZ/projeto-sistemas-de-informa%C3%A7%C3%A3o)  (500pts)
+- [X] [Product Backlog](https://trello.com/b/x0xC5LxZ/projeto-sistemas-de-informa%C3%A7%C3%A3o) (500pts)
 - [X] Planning (250pts)
 - [X] Sprint Planning #1 (Database) 
 - [ ] Architecture
@@ -24,7 +24,7 @@
 * Tiago Severino
 ### Status
 - [X] Product Vision (450pts)
-- [X] [Product Backlog](https://trello.com/b/BZ04vLFb/projecto-placeu)  (500pts)
+- [X] [Product Backlog](https://trello.com/b/BZ04vLFb/projecto-placeu) (500pts)
 - [X] Planning (50pts)
 - [X] Sprint Planning #1 (Database) 
 - [X] Architecture (50pts)
@@ -43,7 +43,7 @@
 * Rui Miguel
 ### Status
 - [X] Product Vision (450pts)
-- [X] [Product Backlog](https://trello.com/b/Ck5mds3X/surfect-final-project)  (500pts)
+- [X] [Product Backlog](https://trello.com/b/Ck5mds3X/surfect-final-project) (500pts)
 - [X] Planning (50pts)
 - [X] Sprint Planning #1 (Database, Android) 
 - [ ] Architecture (Sprint #2)
@@ -52,4 +52,23 @@
 - [X] Source Control (50pts)
 - [ ] Unit Tests
 - [ ] Mobile Development (Scaffolding)
+- [ ] UI Style Guide
+
+
+## Group Artdecora 🎨
+### Participants
+* Cláudio Garcia
+* Fernando Cruz Correia
+* Darcio Silva
+### Status
+- [X] Product Vision (Sprint #2)
+- [X] [Product Backlog](https://trello.com/b/rIw4QoOD/projeto-final-de-curso) (500pts)
+- [X] Planning (50pts)
+- [X] Sprint Planning #1 (Product Vision, Architecture) 
+- [ ] Architecture (Sprint #2)
+- [X] Database (Diagram, Structure) (250pts)
+- [ ] Documentation
+- [ ] Source Control (100pts)
+- [ ] Unit Tests
+- [X] Mobile Development (Scaffolding) (100pts)
 - [ ] UI Style Guide
