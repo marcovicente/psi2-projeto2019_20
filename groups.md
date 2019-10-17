@@ -13,5 +13,5 @@
 - [ ] Documentation
 - [ ] Source Control (Sprint #2)
 - [ ] Unit Tests
-- [ ] Mobile Development
+- [X] Mobile Development (Scaffolding) (100pts)
 - [ ] UI Style Guide
