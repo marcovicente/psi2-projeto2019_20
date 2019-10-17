@@ -34,3 +34,22 @@
 - [ ] Unit Tests
 - [ ] Mobile Development (Scaffolding)
 - [ ] UI Style Guide
+
+
+## Group Surfect 🏄
+### Participants
+* Guilherme Brito
+* Miguel Mendonça
+* Rui Miguel
+### Status
+- [X] Product Vision (450pts)
+- [X] [Product Backlog](https://trello.com/b/Ck5mds3X/surfect-final-project)  (500pts)
+- [X] Planning (50pts)
+- [X] Sprint Planning #1 (Database, Android) 
+- [ ] Architecture (Sprint #2)
+- [X] Database (Diagram, Structure) (50pts)
+- [ ] Documentation
+- [X] Source Control (50pts)
+- [ ] Unit Tests
+- [ ] Mobile Development (Scaffolding)
+- [ ] UI Style Guide
