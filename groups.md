@@ -63,11 +63,11 @@
 ### Status
 - [X] Product Vision (Sprint #2)
 - [X] [Product Backlog](https://trello.com/b/rIw4QoOD/projeto-final-de-curso) (500pts)
-- [X] Planning (50pts)
+- [X] Planning (Sprint#3)
 - [X] Sprint Planning #1 (Product Vision, Architecture) 
-- [ ] Architecture (Sprint #2)
+- [ ] Architecture (Sprint #3)
 - [X] Database (Diagram, Structure) (250pts)
-- [ ] Documentation
+- [ ] Documentation (Sprint #3)
 - [ ] Source Control (100pts)
 - [ ] Unit Tests
 - [X] Mobile Development (Scaffolding) (100pts)
