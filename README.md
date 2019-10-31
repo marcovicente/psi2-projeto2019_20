@@ -54,6 +54,9 @@
 
 <a name="leaderboard"></a>
 ## Leaderboard
+### December
+
+
 ### September/ October (🥐🥐🥐) 🍪🍪🍪🍪🍪🍪🍪🍪🍪
 
 | Players       | Session #1 | Pitch | Session #3 | Session #4 | Sprint Planning #1 | Total |
