@@ -29,7 +29,7 @@
 - [X] Sprint Planning #1 (Database) 
 - [X] Architecture (50pts)
 - [X] Database (Diagram, Structure) (50pts)
-- [ ] Documentation
+- [ ] Documentation (Sprint #3)
 - [X] Source Control (50pts)
 - [ ] Unit Tests
 - [ ] Mobile Development (Scaffolding)
