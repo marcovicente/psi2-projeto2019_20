@@ -46,12 +46,12 @@
 - [X] [Product Backlog](https://trello.com/b/Ck5mds3X/surfect-final-project) (500pts)
 - [X] Planning (50pts)
 - [X] Sprint Planning #1 (Database, Android) 
-- [ ] Architecture (Sprint #2)
+- [X] Architecture (Sprint #2)
 - [X] Database (Diagram, Structure) (50pts)
-- [ ] Documentation
+- [ ] Documentation (Sprint #3)
 - [X] Source Control (50pts)
 - [ ] Unit Tests
-- [ ] Mobile Development (Scaffolding)
+- [X] Mobile Development (Scaffolding)
 - [ ] UI Style Guide
 
 
