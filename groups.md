@@ -11,7 +11,7 @@
 - [ ] Architecture
 - [X] Database (Diagram, Structure) (250pts)
 - [ ] Documentation
-- [ ] Source Control (Sprint #2)
+- [ ] Source Control (Sprint #3)
 - [ ] Unit Tests
 - [X] Mobile Development (Scaffolding) (100pts)
 - [ ] UI Style Guide
