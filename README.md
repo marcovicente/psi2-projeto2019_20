@@ -54,7 +54,7 @@
 
 <a name="leaderboard"></a>
 ## Leaderboard
-### December
+### November/ December
 
 
 ### September/ October (🥐🥐🥐) 🍪🍪🍪🍪🍪🍪🍪🍪🍪
