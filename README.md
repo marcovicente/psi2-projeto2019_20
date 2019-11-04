@@ -54,8 +54,22 @@
 
 <a name="leaderboard"></a>
 ## Leaderboard
-### November/ December
+### November/ December 🍫??
 
+| Players       | Code Version Control |
+|---------------|----------------------|
+| Brigido       | 1000                 |
+| Cidalia       | 1000                 |
+| claclo        | 1000                 |
+| Jduarte       | 1000                 |
+| Miguel        | 1000                 |
+| Rodolfo       | 1000                 |
+| Rui           | 1000                 |
+| SportinGUIsta | 1000                 |
+| T.Miguel      | 1000                 |
+| DARCIO        |                      |
+| Fernandocc    |                      |
+| Severino      |                      |
 
 ### September/ October (🥐🥐🥐) 🍪🍪🍪🍪🍪🍪🍪🍪🍪
 
