@@ -31,10 +31,10 @@
 - [X] Database (Diagram, Structure) (50pts)
 - [ ] Documentation (Sprint #3)
 - [X] Source Control (50pts)
-  - [] Git Mobile (500pts)
-  - [] Git APIs (500pts)
-  - [] App Web (500pts)
-  - [] BD (500pts)  
+  - [ ] Git Mobile (500pts)
+  - [ ] Git APIs (500pts)
+  - [ ] App Web (500pts)
+  - [ ] BD (500pts)  
 - [ ] Unit Tests
 - [ ] Mobile Development (Scaffolding)
 - [ ] UI Style Guide
