@@ -11,7 +11,11 @@
 - [X] Architecture
 - [X] Database (Diagram, Structure) (250pts)
 - [ ] Documentation
-- [ ] Source Control (Sprint #3)
+- [X] Source Control
+  - [ ] Git Mobile (500pts)
+  - [ ] Git APIs (500pts)
+  - [ ] App Web (500pts)
+  - [ ] BD (500pts)  
 - [ ] Unit Tests
 - [X] Mobile Development (Scaffolding) (100pts)
 - [ ] UI Style Guide
@@ -30,7 +34,7 @@
 - [X] Architecture (50pts)
 - [X] Database (Diagram, Structure) (50pts)
 - [ ] Documentation (Sprint #3)
-- [X] Source Control (50pts)
+- [X] Source Control
   - [ ] Git Mobile (500pts)
   - [ ] Git APIs (500pts)
   - [ ] App Web (500pts)
@@ -53,7 +57,11 @@
 - [X] Architecture (Sprint #2)
 - [X] Database (Diagram, Structure) (50pts)
 - [ ] Documentation (Sprint #3)
-- [X] Source Control (50pts)
+- [X] Source Control
+  - [ ] Git Mobile (500pts)
+  - [ ] Git APIs (500pts)
+  - [ ] App Web (500pts)
+  - [ ] BD (500pts)  
 - [ ] Unit Tests
 - [X] Mobile Development (Scaffolding)
 - [ ] UI Style Guide
@@ -72,7 +80,11 @@
 - [ ] Architecture (Sprint #3)
 - [X] Database (Diagram, Structure) (250pts)
 - [ ] Documentation (Sprint #3)
-- [ ] Source Control (100pts)
+- [X] Source Control
+  - [ ] Git Mobile (500pts)
+  - [ ] Git APIs (500pts)
+  - [ ] App Web (500pts)
+  - [ ] BD (500pts)  
 - [ ] Unit Tests
 - [X] Mobile Development (Scaffolding) (100pts)
 - [ ] UI Style Guide
