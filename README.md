@@ -56,20 +56,20 @@
 ## Leaderboard
 ### November/ December 🍫??
 
-| Players       | Code Version Control |
-|---------------|----------------------|
-| Brigido       | 1000                 |
-| Cidalia       | 1000                 |
-| claclo        | 1000                 |
-| Jduarte       | 1000                 |
-| Miguel        | 1000                 |
-| Rodolfo       | 1000                 |
-| Rui           | 1000                 |
-| SportinGUIsta | 1000                 |
-| T.Miguel      | 1000                 |
-| DARCIO        |                      |
-| Fernandocc    |                      |
-| Severino      |                      |
+| Players       | Code Version Control | GIT #1 | Total |
+|---------------|----------------------|--------|-------|
+| Cidalia       | 1000                 | 3888   | 4888  |
+| Rodolfo       | 1000                 | 3188   | 4188  |
+| Fernandocc    |                      | 3916   | 3916  |
+| Jduarte       | 1000                 | 2913   | 3913  |
+| Rui           | 1000                 | 2764   | 3764  |
+| Brigido       | 1000                 | 1930   | 2930  |
+| SportinGUIsta | 1000                 | 1925   | 2925  |
+| T.Miguel      | 1000                 | 1728   | 2728  |
+| claclo        | 1000                 |        | 1000  |
+| Miguel        | 1000                 |        | 1000  |
+| DARCIO        |                      |        | 0     |
+| Severino      |                      |        | 0     |
 
 ### September/ October (🥐🥐🥐) 🍪🍪🍪🍪🍪🍪🍪🍪🍪
 
