@@ -74,7 +74,8 @@
 * Darcio Silva
 ### Status
 - [X] Product Vision (Sprint #2)
-- [X] [Product Backlog](https://trello.com/b/rIw4QoOD/projeto-final-de-curso) (500pts)
+- [X] [Product Backlog old](https://trello.com/b/rIw4QoOD/projeto-final-de-curso) (500pts)
+- [X] [Product Backlog] (https://trello.com/b/Bi0Wqc3f/artdecora-projeto)
 - [X] Planning (Sprint#3)
 - [X] Sprint Planning #1 (Product Vision, Architecture) 
 - [ ] Architecture (Sprint #3)
