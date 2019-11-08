@@ -50,6 +50,7 @@
 <a name="useful_information"></a>
 ## Useful Information ##
 * [Proposta de Projecto - Documentação](https://wetransfer.com/downloads/f71aa1c174cbbb72e1a61396d69bc02920190930135158/cabd58c59831502b78fac53ad508cbb420190930135158/f8604f)
+* [Learn Git] (https://www.atlassian.com/git/tutorials/what-is-version-control)
 
 
 <a name="leaderboard"></a>
