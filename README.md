@@ -57,20 +57,20 @@
 ## Leaderboard
 ### November/ December 🍫??
 
-| Players       | Code Version Control | GIT #1 | Total |
-|---------------|----------------------|--------|-------|
-| Cidalia       | 1000                 | 3888   | 4888  |
-| Rodolfo       | 1000                 | 3188   | 4188  |
-| Fernandocc    |                      | 3916   | 3916  |
-| Jduarte       | 1000                 | 2913   | 3913  |
-| Rui           | 1000                 | 2764   | 3764  |
-| Brigido       | 1000                 | 1930   | 2930  |
-| SportinGUIsta | 1000                 | 1925   | 2925  |
-| T.Miguel      | 1000                 | 1728   | 2728  |
-| claclo        | 1000                 |        | 1000  |
-| Miguel        | 1000                 |        | 1000  |
-| DARCIO        |                      |        | 0     |
-| Severino      |                      |        | 0     |
+| Players       | Code Version Control | Github | GIT #1 | Alumni | Total |
+|---------------|----------------------|--------|--------|--------|-------|
+| Rui           | 1000                 |        | 2764   | 4404   | 8168  |
+| Cidalia       | 1000                 |        | 3888   | 2808   | 7696  |
+| SportinGUIsta | 1000                 |        | 1925   | 4461   | 7386  |
+| Rodolfo       | 1000                 |        | 3188   | 3123   | 7311  |
+| Fernandocc    |                      |        | 3916   | 3158   | 7074  |
+| T.Miguel      | 1000                 |        | 1728   | 4039   | 6767  |
+| Jduarte       | 1000                 |        | 2913   |        | 3913  |
+| Brigido       | 1000                 |        | 1930   |        | 2930  |
+| claclo        | 1000                 |        |        |        | 1000  |
+| Miguel        | 1000                 |        |        |        | 1000  |
+| DARCIO        |                      |        |        |        | 0     |
+| Severino      |                      |        |        |        | 0     |
 
 ### September/ October (🥐🥐🥐) 🍪🍪🍪🍪🍪🍪🍪🍪🍪
 
