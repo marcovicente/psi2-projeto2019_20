@@ -9,7 +9,7 @@
 - [X] Planning
 - [X] Sprint Planning #1 (Database) 
 - [X] Architecture
-- [X] Database (Diagram, Structure) (250pts)
+- [X] Database (Diagram, Structure)
 - [ ] Documentation
 - [X] Source Control
   - [ ] Git Mobile (500pts)
