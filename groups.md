@@ -39,14 +39,17 @@
 - [X] Database (Diagram, Structure)
 - [ ] Documentation
 - [X] Source Control
-  - [ ] Git Mobile (500pts)
-  - [ ] Git APIs (500pts)
-  - [ ] App Web (500pts)
-  - [ ] BD (500pts)  
+  - [X] Git Mobile (500pts)
+  - [X] Git APIs (500pts)
+  - [X] App Web (500pts)
+  - [X] BD (500pts)  
 - [ ] Unit Tests
 - [ ] Mobile Development (Scaffolding)
 - [ ] UI Style Guide
-
+### I Wish
+* Stuff that could be improved
+### I Like
+* Stuff going very well
 
 ## Group Surfect 🏄
 ### Participants
@@ -69,7 +72,10 @@
 - [ ] Unit Tests
 - [X] Mobile Development (Scaffolding)
 - [ ] UI Style Guide
-
+### I Wish
+* Stuff that could be improved
+### I Like
+* Stuff going very well
 
 ## Group Artdecora 🎨
 ### Participants
@@ -82,9 +88,9 @@
 - [X] [Product Backlog] (https://trello.com/b/Bi0Wqc3f/artdecora-projeto)
 - [X] Planning (Sprint#3)
 - [X] Sprint Planning #1 (Product Vision, Architecture) 
-- [ ] Architecture (Sprint #3)
+- [X] Architecture
 - [X] Database (Diagram, Structure)
-- [ ] Documentation (Sprint #3)
+- [X] Documentation
 - [X] Source Control
   - [ ] Git Mobile (500pts)
   - [ ] Git APIs (500pts)
@@ -93,3 +99,7 @@
 - [ ] Unit Tests
 - [X] Mobile Development (Scaffolding) (100pts)
 - [ ] UI Style Guide
+### I Wish
+* Stuff that could be improved
+### I Like
+* Stuff going very well
