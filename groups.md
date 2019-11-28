@@ -4,9 +4,9 @@
 * Rodolfo Barreira
 * Tiago Santos
 ### Status
-- [X] Product Vision (500pts)
-- [X] [Product Backlog](https://trello.com/b/x0xC5LxZ/projeto-sistemas-de-informa%C3%A7%C3%A3o) (500pts)
-- [X] Planning (250pts)
+- [X] Product Vision
+- [X] [Product Backlog](https://trello.com/b/x0xC5LxZ/projeto-sistemas-de-informa%C3%A7%C3%A3o)
+- [X] Planning
 - [X] Sprint Planning #1 (Database) 
 - [X] Architecture
 - [X] Database (Diagram, Structure) (250pts)
@@ -17,7 +17,7 @@
   - [ ] App Web (500pts)
   - [ ] BD (500pts)  
 - [ ] Unit Tests
-- [X] Mobile Development (Scaffolding) (100pts)
+- [X] Mobile Development (Scaffolding)
 - [ ] UI Style Guide
 
 
@@ -27,13 +27,13 @@
 * João Duarte
 * Tiago Severino
 ### Status
-- [X] Product Vision (450pts)
-- [X] [Product Backlog](https://trello.com/b/BZ04vLFb/projecto-placeu) (500pts)
-- [X] Planning (50pts)
+- [X] Product Vision
+- [X] [Product Backlog](https://trello.com/b/BZ04vLFb/projecto-placeu)
+- [X] Planning
 - [X] Sprint Planning #1 (Database) 
-- [X] Architecture (50pts)
-- [X] Database (Diagram, Structure) (50pts)
-- [ ] Documentation (Sprint #3)
+- [X] Architecture
+- [X] Database (Diagram, Structure)
+- [ ] Documentation
 - [X] Source Control
   - [ ] Git Mobile (500pts)
   - [ ] Git APIs (500pts)
@@ -50,12 +50,12 @@
 * Miguel Mendonça
 * Rui Miguel
 ### Status
-- [X] Product Vision (450pts)
-- [X] [Product Backlog](https://trello.com/b/Ck5mds3X/surfect-final-project) (500pts)
-- [X] Planning (50pts)
+- [X] Product Vision
+- [X] [Product Backlog](https://trello.com/b/Ck5mds3X/surfect-final-project)
+- [X] Planning
 - [X] Sprint Planning #1 (Database, Android) 
 - [X] Architecture (Sprint #2)
-- [X] Database (Diagram, Structure) (50pts)
+- [X] Database (Diagram, Structure)
 - [ ] Documentation (Sprint #3)
 - [X] Source Control
   - [ ] Git Mobile (500pts)
@@ -79,7 +79,7 @@
 - [X] Planning (Sprint#3)
 - [X] Sprint Planning #1 (Product Vision, Architecture) 
 - [ ] Architecture (Sprint #3)
-- [X] Database (Diagram, Structure) (250pts)
+- [X] Database (Diagram, Structure)
 - [ ] Documentation (Sprint #3)
 - [X] Source Control
   - [ ] Git Mobile (500pts)
