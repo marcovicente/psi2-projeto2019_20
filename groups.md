@@ -12,14 +12,17 @@
 - [X] Database (Diagram, Structure)
 - [ ] Documentation
 - [X] Source Control
-  - [ ] Git Mobile (500pts)
+  - [X] Git Mobile (500pts)
   - [ ] Git APIs (500pts)
-  - [ ] App Web (500pts)
-  - [ ] BD (500pts)  
+  - [X] App Web (500pts)
+  - [ ] BD (500pts)  Sprint Planning #5
 - [ ] Unit Tests
 - [X] Mobile Development (Scaffolding)
 - [ ] UI Style Guide
-
+### I Wish
+* Stuff that could be improved
+### I Like
+* Stuff going very well
 
 ## Group PlaceU 🏢
 ### Participants
