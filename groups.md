@@ -92,10 +92,10 @@
 - [X] Database (Diagram, Structure)
 - [X] Documentation
 - [X] Source Control
-  - [ ] Git Mobile (500pts)
-  - [ ] Git APIs (500pts)
-  - [ ] App Web (500pts)
-  - [ ] BD (500pts)  
+  - [X] Git Mobile (500pts)
+  - [X] Git APIs (500pts)
+  - [X] App Web (500pts)
+  - [X] BD (500pts)  
 - [ ] Unit Tests
 - [X] Mobile Development (Scaffolding) (100pts)
 - [ ] UI Style Guide
