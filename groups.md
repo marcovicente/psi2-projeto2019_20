@@ -6,6 +6,8 @@
 ### Status
 - [X] Product Vision
 - [X] [Product Backlog](https://trello.com/b/x0xC5LxZ/projeto-sistemas-de-informa%C3%A7%C3%A3o)
+- [X] [Sources Web](https://github.com/Tjay98/projetoburguer)
+- [X] [Sources Android](https://github.com/tiagomiguel218/MakeaBurguer)
 - [X] Planning
 - [X] Sprint Planning #1 (Database) 
 - [X] Architecture
