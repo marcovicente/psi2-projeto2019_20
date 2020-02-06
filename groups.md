@@ -61,6 +61,7 @@
 ### Status
 - [X] Product Vision
 - [X] [Product Backlog](https://trello.com/b/Ck5mds3X/surfect-final-project)
+- [X] [Sources Web](https://github.com/miguelm99/Surfect)
 - [X] Planning
 - [X] Sprint Planning #1 (Database, Android) 
 - [X] Architecture (Sprint #2)
@@ -88,6 +89,9 @@
 - [X] Product Vision (Sprint #2)
 - [X] [Product Backlog old](https://trello.com/b/rIw4QoOD/projeto-final-de-curso) (500pts)
 - [X] [Product Backlog](https://trello.com/b/Bi0Wqc3f/artdecora-projeto)
+- [X] [Sources Web](https://github.com/correiaaa99/artdecora)
+- [X] [Sources Android](https://github.com/correiaaa99/android-app)
+- [X] [Sources Database](https://github.com/correiaaa99/database)
 - [X] Planning (Sprint#3)
 - [X] Sprint Planning #1 (Product Vision, Architecture) 
 - [X] Architecture
