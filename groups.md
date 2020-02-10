@@ -62,7 +62,7 @@
 - [X] Product Vision
 - [X] [Product Backlog](https://trello.com/b/Ck5mds3X/surfect-final-project)
 - [X] [Sources Web](https://github.com/miguelm99/Surfect)
-- [X] [Documentation](https://github.com/Ssination/Surfect)
+- [X] [Documentation](https://github.com/Ssination/Surfect) (Source is in branches)
 - [X] Planning
 - [X] Sprint Planning #1 (Database, Android) 
 - [X] Architecture (Sprint #2)
